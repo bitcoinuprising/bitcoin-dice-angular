@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'Bitcoin-Casino-master'" />
+    <option name="defaultScopeName" value="Project 'Bitcoin-Casino-master'" />
+    <option name="SEARCH_SCOPE" value="Project 'Bitcoin-Casino-master'" />
   </component>
 </application>
