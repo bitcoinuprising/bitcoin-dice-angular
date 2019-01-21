@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\themes\ClassicPurple\frontpage.php [BitcoinDice-master]'" />
-    <option name="defaultScopeName" value="File '...\themes\ClassicPurple\frontpage.php [BitcoinDice-master]'" />
-    <option name="SEARCH_SCOPE" value="File '...\themes\ClassicPurple\frontpage.php [BitcoinDice-master]'" />
+    <option name="customScope" value="Project 'BitcoinDice-master'" />
+    <option name="defaultScopeName" value="Project 'BitcoinDice-master'" />
+    <option name="SEARCH_SCOPE" value="Project 'BitcoinDice-master'" />
   </component>
 </application>
